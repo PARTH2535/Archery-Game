@@ -1,2 +1,2 @@
 # Archery-Game
-Archery Game using C 
+Archery Game is developed in C having 3 Levels.
