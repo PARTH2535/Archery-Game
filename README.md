@@ -1,2 +1,2 @@
-# Archery-Game-
+# Archery-Game
 Archery Game using C 
